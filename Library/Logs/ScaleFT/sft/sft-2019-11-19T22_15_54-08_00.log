@@ -1,4 +1,0 @@
-2019-11-19T22:15:54.999-0800	INFO	sft command	{"log_directory": "Library/Logs/ScaleFT/sft", "version": "1.40.8", "pid": 94710, "args": ["/usr/local/bin/sft", "resolve", "-q", "github.com"]}
-2019-11-19T22:15:55.000-0800	DEBUG	Did not load a config from file, using default values	{"path": "Library/Application Support/ScaleFT/sft.conf", "error": "stat Library/Application Support/ScaleFT/sft.conf: no such file or directory"}
-2019-11-19T22:15:55.000-0800	ERROR	CLI Action failed	{"error": "You are not currently enrolled in any teams. Please run 'sft enroll' to enroll in your team.", "action": "resolve"}
-2019-11-19T22:15:55.000-0800	INFO	RecordSpan	{"t": "trace", "operation": "cli.resolve", "start": "2019-11-19T22:15:55.000-0800", "duration": "216.774µs", "traceID": 2571108737232453084, "spanID": 4293537691470153543, "tags": {"error":true}}
